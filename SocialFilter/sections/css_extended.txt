@@ -146,7 +146,7 @@ hetmanrecovery.com#?#._post-footer > div._post-footer__tags ~ div[class]:has(> h
 hetmanrecovery.com#?#._post-footer > div._post-footer__tags ~ div[class]:has(> div._share)
 ntower.de#?#article#news + section.jsOnly > h2:contains(/^Teilen$/)
 psychologies.ru#?#.aside-title:contains(Psychologies в cоц.сетях)
-calculate.plus#?#.col-xs-12 > .panel-application > .panel-body > .social-share:only-child:upward(2)
+calculate.plus#?#.col-xs-6 > .panel-application > .panel-body > .social-share:only-child:upward(2)
 kaspersky.ru#?#.js-sticky-sidebar-visible > div[class="c-widget"]:has(> h5:contains(Поделиться))
 eg.ru#?#.article div[id][onclick]:has(> i[class$="fa-share-square"])
 litmir.me#?#table > tbody > tr:has(> td > a[href^="/ShareLink/"])
@@ -276,7 +276,7 @@ tvp.pl#?#.article__left > .article__content > .article__icons:has(> .article__ic
 tesbihane.com#?##price-flexer > .triple > .row > .d-flex > .text-description:contains(Share:)
 shorturl.at#?#body > main > section#content:has(> div.socialnetworkbox)
 muchohentai.com#?##sidebar > div.widget:has(> div.textwidget a.twitter-timeline)
-viprow.me#?#.container > .row > .col-12.text-center > .btn-danger:contains(Sharing is Caring)
+viprow.me#?#.container > .row > .col-6.text-center > .btn-danger:contains(Sharing is Caring)
 sudouest.fr#?#.social-links > *:not(div)
 singleclickapps.com#?#.nav-list > li.nav-header:contains(/\sUs on\s/)
 geo.de#?#.sidebar-teasergroup:has(> .sidebar-headline:contains(Facebook))
@@ -441,7 +441,7 @@ ettoday.net#?#div:has(> a.fb-messenger)
 russiancouncil.ru#?#.js-tabs-simple:has(> span > p:contains(Facebook))
 russiancouncil.ru#?#div:has(> .js-tabs-simple-content > #vk_groups)
 sport24.ru#?#div:has(> span:contains(Поделиться))
-ngs24.ru#?#.central-column-container ul:has(> li > button[style="width:36px;height:36px;"] > svg)
+ngs24.ru#?#.central-column-container ul:has(> li > button[style="width:46px;height:46px;"] > svg)
 ilahisozleri.me#?#.col-md-4 > .widget:has(> .widget-title > span:contains(Paylaş))
 oyunindir.vip#?#.td-ss-main-sidebar > .td_block_template_2:has(> .td-block-title > span:contains(Sosyal Medya:))
 ichip.ru#?#.vc_column_container:has(.wpb_wrapper > .instagram-widget)
@@ -526,7 +526,7 @@ ademocut.com#?##sidebar > .yanmenu:has(>h2:contains(Facebook Takip Et))
 uvfitness.net#?#.blog-sidebar > .box-blue:has(> .widget > .share)
 faktxeber.com#?##habersol > .ikutub:has(a[href^="https://web.whatsapp.com/send?"])
 forum.donanimhaber.com#?#.altkisim > [class="altkisimdetay"]:has(>span:contains(Facebook Sayfamız))
-bahsinetv.com#?#.col-lg-12 > .s-b:has(> .fa-share-alt)
+bahsinetv.com#?#.col-lg-6 > .s-b:has(> .fa-share-alt)
 rojadirectaonlinetv.com,extremotvplay.com#?#.sidebar > .encabezados:has(>h2:contains(Síguenos))
 techbang.com#?##sidebar > .section:has(>.fb-page)
 solvettube.com#?##sidebar > .blocks > li.block:has(>.block-content > [class^="box textwidget "][class*="uson"])
@@ -565,7 +565,7 @@ imgrum.org#?#.module_blog_page > .blogpost_user_meta[-ext-has=">.fb-share-button
 topxeber.az#?#.main > .s-post-nav ~ span:contains(PAYLAŞ)
 brifinq.com#?##sidebar-right > .title:contains(Facebook-da)
 boxfilmizle.com#?#.col3 > .video-bot3[-ext-has=".fsfb"]
-asanradio.az#?#.col-md-12 > .panel.panel-info[-ext-has=">.dividers > .dividers-header:contains(Facebook)"]
+asanradio.az#?#.col-md-6 > .panel.panel-info[-ext-has=">.dividers > .dividers-header:contains(Facebook)"]
 anv.az#?#.row.side_content > [class="row xeber_lenti_holder hidden-xs"][style^="padding:"][-ext-has=">.ng_header:contains(FACEBOOK)"]
 gundem.ws#?#.sidebar > .kopa-article-list-5-widget[-ext-has=">.fb-page"]
 durmamp3indir.biz#?#.blok[-ext-has=">i:contains(Paylaş)"]
@@ -580,7 +580,7 @@ shayhowe.com#?#.pop-out > .toc > h6:contains(Share)
 bythom.com#?##sidebar-content div.pagelet.titled[-ext-has="> h4 > span:contains(Social Links)"]
 ran.de#?##hs-customer-block > section[class="box module_group psdcontainer clearfix icon-left has_header "][-ext-has='.hs-module_header > h2:contains(Facebook)']
 csgo-stats.net#?#.container > div.row > div > div.picture-list[-ext-has="> div.card-header > h2:contains(Share)"]
-kachelmannwetter.com#?#.row > .col-lg-6 > h2.head-index:contains(/Facebook|Twitter/)
+kachelmannwetter.com#?#.row > .col-lg-4 > h2.head-index:contains(/Facebook|Twitter/)
 kachelmannwetter.com##.main-index-content > div.col-sm-6 > h3.head-line:contains(Soziale Netzwerke)
 kachelmannwetter.com#?##sidebar > div.widget:has(> div.textwidget > div.ssba)
 stylevamp.de#?#.site-main > #secondary > .widget > .section-title:contains(Finde uns auf Facebook)
@@ -610,8 +610,8 @@ androidcanavari.net#?#aside.sidebar div.widget.widget_text[-ext-has=".fb-page"]
 ikz-online.de,nrz.de,waz.de,wp.de,wr.de#?#div.sidebar__column > div.content-options div.content-options[-ext-has="span.block-header__icon:contains(Facebook)"]
 otoraba.com#?#div[class$="kutu gri"][-ext-has='div[class$="g-plusone"]']
 abendzeitung-muenchen.de#?#div[class$="statichtmlbrick module"][-ext-has='div[class$="fb-page"]']
-bookdl.org#?#div[style$="width:320px;height:235px;"][-ext-has='div.fb-like-box']
-bookdl.org#?#div[style*="width: 320px; height: 235px;"][-ext-has='div.fb-like-box']
+bookdl.org#?#div[style$="width:350px;height:275px;"][-ext-has='div.fb-like-box']
+bookdl.org#?#div[style*="width: 350px; height: 275px;"][-ext-has='div.fb-like-box']
 golem.de#?#li[class="text1"][-ext-has='div[class$="social-bar social-sidebar"]']
 turkanime.tv#?#td[valign="top"][style="padding-left:10px; padding-top:10px; padding-right:5px;"] div[-ext-has='span.ui-blok-title:contains(FACEBOOK)']
 ! мвд.рф share block
